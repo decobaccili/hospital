@@ -35,7 +35,7 @@
   color: #ccc;
 }
 
-.button{
+.button__login{
   background: #fff;
   color: #0099ff;
   width: 200px;
@@ -48,7 +48,7 @@
   transition: .3s ease-in-out;
 }
 
-.button:hover{
+.button__login:hover{
   background: #0099ff;
   color: #fff;
   border: #fff;
