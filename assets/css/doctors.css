@@ -1,0 +1,65 @@
+.doctors{
+  background: rgba(215, 241, 246, 0.34);
+}
+
+.doctors__content{
+  display: flex;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.docs__img{
+  width: 95%;
+  margin-top: 50px;
+}
+
+.docs__data{
+  width: 230px;
+  height: 140px;
+  background: #fff;
+  margin: 0 auto;
+  position: relative;
+  bottom: 80px;
+}
+
+.doc__medias{
+  display: flex;
+}
+
+.doc__icon{
+  list-style: none;
+  padding: 10px 5px 0 15px;
+}
+
+.doc__link{
+  text-decoration: none;
+  color: #333;
+}
+
+.doc__link:hover{
+  color: orange;
+}
+
+.doc__name{
+  font-weight: 700;
+  font-size: 20px;
+  color: #333;
+  margin: 0 auto;
+  text-align: left;
+  padding-left: 15px;
+}
+
+.doc__function{
+  color: #333;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: left;
+  padding-left: 15px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+
+

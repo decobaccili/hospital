@@ -1,0 +1,29 @@
+.banner{
+  height: 770px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.banner__box{
+  width: 50%;
+}
+
+.banner__title{
+  font-weight: 700;
+  font-size: 56px;
+  color: #333;
+}
+
+.banner__content{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 156%;
+  letter-spacing: 0.05rem;
+  text-transform: capitalize;
+  color: #999;
+  margin: 30px 16px 30px 0;
+}
+

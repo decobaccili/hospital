@@ -1,0 +1,40 @@
+.services{
+  background: rgba(215, 241, 246, 0.34);
+  text-align: center;
+}
+
+.services__list{
+  width: 80%;
+  margin: 80px auto;
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.services__box{
+  margin-bottom: 80px;
+  background: #fff;
+  width: 308px;
+  height: 240px;
+}
+
+.services__img{
+  position: relative;
+  top: -40px;
+}
+
+.services__content{
+  display: flex;
+  font-weight: 500;
+  font-size: 18px;
+  color: #999;
+  text-transform: capitalize;
+  padding:0 60px;
+  position: relative;
+  bottom: 110px;
+}
+
+.services__box h3{
+  position: relative;
+  bottom: 110px
+}

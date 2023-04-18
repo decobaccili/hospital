@@ -1,0 +1,27 @@
+.about{
+  width: 80%;
+  margin: 0px auto 50px auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.about__img{
+  width: 45%;
+}
+
+.about__box{
+  width: 50%;
+  text-align: left;
+}
+
+.about__box h4{
+  text-align: left;
+}
+
+.about__content{
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 33px;
+  color: #999;
+  margin-bottom: 65px;
+}

@@ -1,0 +1,60 @@
+.testemonials{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.testemonials__content{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  text-align: center;
+  gap: 15px;
+}
+
+.testemonials__box{
+  width: 50%;
+  background: #F1FAFC;
+}
+
+.testemonials__img{
+  width: 602px;
+  height: 326px;
+  object-fit: fill;
+}
+
+.testemonials__textbox{
+  text-align: left;
+  padding-left: 10%;
+  width: 70%;
+}
+
+.testemonials__title{
+  font-size: 20px;
+  font-weight: 700;  
+}
+
+.testemonials__text{
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+}
+
+.ri-star-fill{
+  color: lightskyblue;
+}
+
+.icon4{
+  color: rgba(133, 205, 250, 80%);
+}
+
+.icon3{
+  color: rgba(133, 205, 250, 70%);
+}
+
+.icon2{
+  color: rgba(133, 205, 250, 60%);
+}
+
+.icon1{
+  color: rgba(133, 205, 250, 50%);
+}

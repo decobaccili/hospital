@@ -18,15 +18,16 @@ Here are the technologies used in this project.
 
 * Github
 * Netlify
-* Font Awesome
+* Remix Icon
 
 ## Links
   - Deploy on Netlify: https://hospital.netlify.app/
   - Repository: https://github.com/decobaccili/hospital
+  - Remix Icon: https://remixicon.com/
 
 ## Figma Template
 
-  - https://www.figma.com/file/1RpK57pvhHm9FkjnAFnY7om/Hospital-Landing-Page-(Community)?node-id=0%3A1&t=SKWQCPJeKcZup4ky-0
+  - https://www.figma.com/file/1RpK57pvHm9FkjnAFnY7om/Hospital-Landing-Page-(Community)?node-id=0-1&t=pRRGolJPg2ohBvjB-0
 
 ## Versioning
 
