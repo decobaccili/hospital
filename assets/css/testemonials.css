@@ -39,22 +39,27 @@
   line-height: 25px;
 }
 
+.testemonials__icons{
+  margin: 25px 0;
+}
+
 .ri-star-fill{
-  color: lightskyblue;
+  color: lightseagreen;
 }
 
 .icon4{
-  color: rgba(133, 205, 250, 80%);
+  opacity: 0.8;
+  /*color: rgba(133, 205, 250, 80%);*/
 }
 
 .icon3{
-  color: rgba(133, 205, 250, 70%);
+  opacity: .7;
 }
 
 .icon2{
-  color: rgba(133, 205, 250, 60%);
+  opacity: .6;
 }
 
 .icon1{
-  color: rgba(133, 205, 250, 50%);
+  opacity: .5;
 }

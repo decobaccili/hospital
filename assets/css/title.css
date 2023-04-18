@@ -20,3 +20,13 @@
 .doctors .section__title{
   text-align: center;
 }
+
+.white__title{
+  width: 55%;
+  font-weight: 600;
+  font-size: 40px;
+  color: white;
+  padding: 4.8% 0 20px 4.8%;
+  text-align: left;
+  text-transform: capitalize;
+}
