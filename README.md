@@ -1,5 +1,3 @@
-🚧 - Under Constrution - 🚧
-
 ![Logo of the project](./assets/img/Logo.png)
 
 ## Hospital. - Landing Page
@@ -12,7 +10,6 @@ Here are the technologies used in this project.
 
 * HTML5
 * CSS3
-* Javascript
 
 ## Services Used
 
@@ -21,7 +18,7 @@ Here are the technologies used in this project.
 * Remix Icon
 
 ## Links
-  - Deploy on Netlify: https://hospital.netlify.app/
+  - Deploy on Netlify: https://hospitaldot.netlify.app/
   - Repository: https://github.com/decobaccili/hospital
   - Remix Icon: https://remixicon.com/
 
