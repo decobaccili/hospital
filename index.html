@@ -19,7 +19,7 @@
     <nav class="menu">
       <ul class="menu__list">
         <li class="menu__item"><a href="#about" class="menu__link">About</a></li>
-        <li class="menu__item"><a href="#" class="menu__link">Home</a></li>
+        <li class="menu__item"><a href="#home" class="menu__link">Home</a></li>
         <li class="menu__item"><a href="#services" class="menu__link">Service</a></li>
       </ul>
     </nav>
@@ -27,7 +27,7 @@
   </header>
 
   <!--Section Banner-->
-  <section class="banner">
+  <section class="banner" id="home">
     <article class="banner__box">
       <h2 class="banner__title">We Care About Your Health</h2>
       <p class="banner__content">check now your healty with our profesional doctor, completed and modern fasilities services</p>
@@ -187,20 +187,23 @@
         <h3><img src="./assets/img/Logo.png" alt="Hospital. logo" class="logo"></h3>
         <p class="footer__about-text">Our hospital tries to answer the challenges in the community's need for quality dental health services but still affordable by a wide audience.</p>
         <div class="footer__about-socialmedia">
-          <i class="ri-twitter-fill"></i>
-          <i class="ri-instagram-fill"></i>
-          <i class="ri-linkedin-fill"></i>
-          <i class="ri-youtube-fill"></i>
-          <i class="ri-whatsapp-fill"></i>
-          <i class="ri-behance-fill"></i>
+          <a href="http://twitter.com" class="footer__icon" target="_blank"><i class="ri-twitter-fill"></i></a>
+          <a href="http://instagram.com" class="footer__icon" target="_blank"><i class="ri-instagram-fill"></i></a>
+          <a href="http://linkedin.com" class="footer__icon" target="_blank"><i class="ri-linkedin-fill"></i></a>
+          <a href="http://youtube.com" class="footer__icon" target="_blank"><i class="ri-youtube-fill"></i></a>
+          <a href="http://whatsapp.com" class="footer__icon" target="_blank"><i class="ri-whatsapp-fill"></i></a>
+          <a href="http://behance.net" class="footer__icon" target="_blank"><i class="ri-behance-fill"></i></a>
         </div>
       </article>
       
       <article class="footer__menu">
         <h3 class="section__title">Menus</h3>
-        <p class="footer__menu-item">About</p>
-        <p class="footer__menu-item">Home</p>
-        <p class="footer__menu-item">Service</p>
+        <ul class="footer__menu-list">
+          <li class="footer__menu-item"><a href="#about" class="footer__menu-link">About</a></li>
+          <li class="footer__menu-item"><a href="#home" class="footer__menu-link">Home</a></li>
+          <li class="footer__menu-item"><a href="#services" class="footer__menu-link">Service</a></li>
+        </ul>
+        
       </article>
       
       <article class="footer__contact">

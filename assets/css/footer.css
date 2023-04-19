@@ -31,6 +31,11 @@
   justify-content: space-between;
 }
 
+.footer__icon{
+  text-decoration: none;
+  color: #000;
+}
+
 .footer__menu{
   width: 10%;
   margin-left: 200px;
@@ -38,15 +43,24 @@
   box-sizing: border-box;
 }
 
-.footer__menu-item{
+.footer__menu-link{
+  text-decoration: none;
   font-size: 18px;
   font-weight: 400;
-  line-height: 28px;
+  line-height: 60px;
+  color: #000;  
+}
+
+.footer__menu-link:hover{
+  color: #ccc;
+}
+
+.footer__menu-item{
+  list-style: none;
 }
 
 .footer__contact{
   width: 30%;
-
 }
 
 .footer__contact-input{
@@ -54,7 +68,7 @@
   height: 55px;
   background: #494949;
   border-radius: 5px;
-  margin: 20px 0;
+  margin: 20px 0 40px 0;
 }
 
 .footer__contact-input::placeholder{
