@@ -1,0 +1,19 @@
+.footer{
+  background: lightblue;
+}
+
+
+.footer__content{
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  
+}
+
+.footer__about{
+  width: 30%;
+}
+
+.footer__menu{
+  width: 20%;
+}
